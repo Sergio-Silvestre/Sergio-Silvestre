@@ -9,7 +9,7 @@
 <br>
 
 <h1 align = "middle">📊 Statistics 📊</h1>
-[![Sergio's github stats](https://github-readme-stats.vercel.app/api?username=Sergio-Silvestre&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Sergio's github stats](https://github-readme-stats.vercel.app/api?username=Sergio-Silvestre&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)<!--hacer lo de vercel-->
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergio-Silvestre&layout=compact&theme=github_dark))](https://github.com/anuraghazra/github-readme-stats
 
@@ -40,5 +40,6 @@
 [![IntelliJ](https://img.shields.io/badge/IntelliJ_Idea-393336?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=303A40)]()
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=303A40)]()
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white&labelColor=303A40)
+<!--añadir pycharm-->
 
 <h1 align = "middle">📫 Contact 📫</h1>
