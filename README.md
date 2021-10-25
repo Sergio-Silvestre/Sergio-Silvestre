@@ -9,7 +9,7 @@
 <br>
 
 <h1 align = "middle">📊 Statistics 📊</h1>
-[![Sergio's github stats](https://github-readme-stats.vercel.app/api?username=Sergio-Silvestre&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)<!--hacer lo de vercel-->
+[![Sergio's github stats](https://github-readme-stats.vercel.app/api?username=Sergio-Silvestre&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergio-Silvestre&layout=compact&theme=github_dark))](https://github.com/anuraghazra/github-readme-stats
 
@@ -39,7 +39,11 @@
 [![Visual Studio](https://img.shields.io/badge/Visual_Studio-612E98?style=for-the-badge&logo=VisualStudio&logoColor=white&labelColor=303A40)]()
 [![IntelliJ](https://img.shields.io/badge/IntelliJ_Idea-393336?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=303A40)]()
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=303A40)]()
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white&labelColor=303A40)
-<!--añadir pycharm-->
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=Eclipse&logoColor=white&labelColor=303A40)
+![Pycharm](https://img.shields.io/badge/Pycharm-000000.svg?style=for-the-badge&logo=Pycharm&logoColor=white&labelColor=303A40)
 
 <h1 align = "middle">📫 Contact 📫</h1>
+<a href="mailto:sergi.silv.pav@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=303A40"/></a>
+<a href="mailto:Sergio.Silvestre@alu.uclm.es"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&labelColor=303A40"/></a>
+<a href=""><img src="https://img.shields.io/badge/linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=303A40"/></a>
+<a href="https://t.me/Faderofol"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=303A40"/></a>
