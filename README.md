@@ -4,7 +4,7 @@
     <h3>🤘 Sergio Silvestre Pavón 🤘 <br> 
       4th year student of Computer Engineering at <i>Escuela Superior de Informática - UCLM</i>
     </h3>
-    <img src="https://esi.uclm.es/assets/esi_logo-7a426d674c8af39655a438edfffc2668fba3816e796aa1608208d8161a2c8b01.png" width="120" height="60" vertical-align="baseline">
+    <img src="https://esi.uclm.es/assets/esi_logo-7a426d674c8af39655a438edfffc2668fba3816e796aa1608208d8161a2c8b01.png" width="120" height="50" vertical-align="baseline">
 </div>
 <br>
 
@@ -36,8 +36,8 @@
 ![VisualBasic](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white&labelColor=303A40)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white&labelColor=303A40)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=303A40)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white&labelColor=303A40)
 ![XAML](https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge&logo=xaml&logoColor=white&labelColor=303A40)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=303A40)
 
 ## 💻 Frameworks
 ![Spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=303A40)
@@ -50,6 +50,11 @@
 ![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=303A40)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white&labelColor=303A40)
 ![Pycharm](https://img.shields.io/badge/Pycharm-000000?style=for-the-badge&logo=Pycharm&logoColor=white&labelColor=303A40)
+
+## 💻 Databases
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=303A40)
+![Microsoft Access](https://img.shields.io/badge/M._Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white&labelColor=303A40)
+![SQLite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 <br>
 <h1 align = "middle">📫 Contact 📫</h1>
