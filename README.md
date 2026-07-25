@@ -2,23 +2,8 @@
 
 <div align="center">
     <h3>🤘 Sergio Silvestre Pavón 🤘<br> 
-      4th year student of Computer Engineering at <i>Escuela Superior de Informática - UCLM</i>
+      Computer Engineer | Backend Developer
     </h3>
-    <img src="https://esi.uclm.es/assets/esi_logo-7a426d674c8af39655a438edfffc2668fba3816e796aa1608208d8161a2c8b01.png" width="120" height="50" vertical-align="baseline">
-</div>
-<br>
-
-<h1 align = "middle">📊 Statistics</h1>
-
-<div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="middle" src="https://github-readme-stats.vercel.app/api?username=Sergio-Silvestre&count_private=true&show_icons=true&theme=github_dark"/>
-    </a>
-    <br>
-    <br>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergio-Silvestre&layout=compact&theme=github_dark"/>
-    </a>
 </div>
 <br>
 
@@ -59,6 +44,4 @@
 <br>
 <h1 align = "middle">📨 Contact</h1>
 <a href="mailto:sergi.silv.pav@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=303A40"/></a>
-<a href="mailto:Sergio.Silvestre@alu.uclm.es"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&labelColor=303A40"/></a>
 <a href="https://www.linkedin.com/in/sergio-silvestre-pav%C3%B3n-081011224/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=303A40"/></a>
-<a href="https://t.me/Faderofol"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=303A40"/></a>
